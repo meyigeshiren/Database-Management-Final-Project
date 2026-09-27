@@ -66,14 +66,7 @@
 
 ---
 
-## 🚀 部署與執行指引 (Getting Started)
-
 ### 環境需求
 * MySQL Server 8.0+
 * MySQL Workbench
 
-### 安裝步驟
-1. Clone 本專案庫：
-   ```bash
-   git clone [https://github.com/meyigeshiren/iot-factory-erp-dbms.git](https://github.com/meyigeshiren/iot-factory-erp-dbms.git)
-   cd iot-factory-erp-dbms
